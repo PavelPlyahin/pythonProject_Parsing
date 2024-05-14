@@ -1,3 +1,4 @@
+"Парсинг сайта с Крипто валютой"
 import time
 import csv
 import datetime
